@@ -15,5 +15,3 @@ while angka < 5:
     print("Tester")
 
 print("Cukup")
-
-# end program
