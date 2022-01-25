@@ -46,6 +46,3 @@ while True:
         break
 
 print("Akhir dari while")
-
-
-
